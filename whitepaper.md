@@ -5,10 +5,30 @@
 ## A Next-Generation Public Digital Finance Blockchain
 
 
+
+
+
+
+
+
+
+
+
+
+
 March 2019, Hashgard Foundation Ltd.
 
 
 
+
+
+
+
+------
+
+
+
+[TOC]
 
 
 
