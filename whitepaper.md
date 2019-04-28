@@ -279,7 +279,7 @@ The Tendermint core module uses a revolving voting mechanism, which is also the 
 
 The Tendermint consensus algorithm begins with the set of verification nodes. The nodes retain a full copy of the blockchain and can identify the verification nodes using a public key. They take turns to propose blocks at each new height. In each round of voting, only one verification node can propose a block and sign it with their corresponding private key. Thus, if an error occurs, the responsible node can be found, while the remaining nodes then must vote on the proposal and sign with their own private keys, to complete the round. However, because the network is asynchronous, it may take several rounds to submit a new block.
 
-![consensus_logic_en](pics/consensus_logic_en.png)
+![consensus_logic_en](pics/consensus_logic.png)
 
 Verification nodes may fail while submitting blocks for several reasons: the current proposal may be offline, or the network may experience delays. Tendermint allows verification nodes to be skipped (i.e. when it is time for the node to propose, but it does not do so). The verification node waits for a short period before moving on to the next round of voting to receive the entire block proposed by the proposer (the verification node proposing the block in this round). The dependence on overtime makes Tendermint a weak synchronization protocol rather than an asynchronous protocol. However, the remaining protocols are asynchronous, and the verification nodes process items only after receiving messages from more than 2/3 of the verification nodes. Thus, Tendermint requires most of the verification nodes to be 100% functional. If one or more nodes go offline, the network stops operating.
 
