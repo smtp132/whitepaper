@@ -8,7 +8,7 @@ Hashgard Foundation Ltd., is a non-profit organization registered in Singapore t
 
 In 2018, Hashgard Foundation established the open source public blockchain project Hashgard, as the underlying platform for future digital financial innovation and organizational collaboration, supporting users to conduct research and application development based on this platform, and promote the ecological development of public blockchains.
 
-- [白皮书](白皮书.md)
+- [白皮书_中文版_](whitepaper_CN.md)
 
-
+- [Whitepaper_EN](whitepaper.md)
 
