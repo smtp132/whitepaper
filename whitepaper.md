@@ -255,7 +255,7 @@ Ethermint provides the EVM module, allowing users to run smart contracts on Tend
 
 ### 3.1.1 Network Architecture
 
-![image-20190428160753954](pics/image-20190428160753954.png)
+![framework_en](pics/framework_en.png)
 
 As shown in the diagram, Hashgard has a similar architecture to Cosmos and IRIS. It is a blockchain zone for the financial industry, based on Cosmos. On the basis of the Cosmos SDK, Hashgard has developed a completely new finance serving framework through which traditional institutions can quickly migrate their business to the blockchain world for rapid development and deployment, creating new business application scenarios without the need to deeply understand the underlying technology. Companies with high security and reliability requirements can also directly use Hashgard and its issuance packages to build and deploy their own independent chains to run their own applications.
 
@@ -279,7 +279,7 @@ The Tendermint core module uses a revolving voting mechanism, which is also the 
 
 The Tendermint consensus algorithm begins with the set of verification nodes. The nodes retain a full copy of the blockchain and can identify the verification nodes using a public key. They take turns to propose blocks at each new height. In each round of voting, only one verification node can propose a block and sign it with their corresponding private key. Thus, if an error occurs, the responsible node can be found, while the remaining nodes then must vote on the proposal and sign with their own private keys, to complete the round. However, because the network is asynchronous, it may take several rounds to submit a new block.
 
-![image-20190428161224171](pics/image-20190428161224171.png)
+![consensus_logic_en](pics/consensus_logic_en.png)
 
 Verification nodes may fail while submitting blocks for several reasons: the current proposal may be offline, or the network may experience delays. Tendermint allows verification nodes to be skipped (i.e. when it is time for the node to propose, but it does not do so). The verification node waits for a short period before moving on to the next round of voting to receive the entire block proposed by the proposer (the verification node proposing the block in this round). The dependence on overtime makes Tendermint a weak synchronization protocol rather than an asynchronous protocol. However, the remaining protocols are asynchronous, and the verification nodes process items only after receiving messages from more than 2/3 of the verification nodes. Thus, Tendermint requires most of the verification nodes to be 100% functional. If one or more nodes go offline, the network stops operating.
 
@@ -634,9 +634,9 @@ Our expected development roadmap is as follows. This roadmap is only for general
 
 ## 3.8 Ecosystem
 
-  ![image-20190428163635636](pics/image-20190428163635636.png)
 
 
+![ecosystem_en](pics/ecosystem_en.png)
 
 
 
