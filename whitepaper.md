@@ -520,7 +520,7 @@ Hashgard verification nodes bear the following costs.
 
 |                                    | *Active verification nodes* | *Candidate nodes/Full nodes* |
 | ---------------------------------- | ----------------------------- | ------------------------------ |
-| Maximum number                     | 21                            | /                              |
+| Maximum number                     | 100                         | /                              |
 | Synchronization of complete blocks | Yes                           | Yes                            |
 | Block generation                   | Yes                           | No                             |
 | Proposal votes counted             | Yes                           | No                             |
