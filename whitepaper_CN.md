@@ -274,7 +274,7 @@ Hashgard Foundation Ltd.
 
 ### 3.1.2 共识机制
 
-　　与Cosmos 网络里的其他网络一样，临界网络采用 Tendermint 作为共识层。Castro 和 Liskov 在1999年引入的实用拜占庭容错(PBFT)算法后，Tendermint 是 Jae Know 创建的第一个 PoS 改编版。
+　　临界网络采用 Tendermint 作为共识层，这与Cosmos 生态网络里的其他网络一样。自Castro 和 Liskov 在1999年引入的实用拜占庭容错(PBFT)算法后，Tendermint 是 Jae Know 创建的第一个 PoS 改编版。本章节是对Tendermint 官方介绍的引用。
 
 　　Tendermint 伪随机的安排一个验证人节点在多轮投票的过程中提议一个区块。但是，提交和最终化区块取决于大多数——所有验证人节点所持有股权中超过2/3股权的验证人节点在提交的区块中签名。在区块最终化之前可能需要进行几轮签名。BFT系统可以容忍1/3的失败，其中失败包括故障或是恶意的攻击。
 
