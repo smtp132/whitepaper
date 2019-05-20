@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./pics
+---
+
 
 
   
@@ -248,7 +252,9 @@ Hashgard Financial Service Framework includes three types of services.
 
 ### 3.1.2 Consensus Mechanism
 
-Like other networks in Cosmos, Hashgard uses Tendermint as its consensus layer. After Castro and Liskov introduced the Practical Byzantine Fault Tolerance (PBFT) algorithm in 1999, Tendermint was Jae Kwon’s first PoS adaptation. This section is cited from Tendermint official website.[[1\]](#_ftn1)
+Like other networks in Cosmos, Hashgard uses Tendermint as its consensus layer. After Castro and Liskov introduced the Practical Byzantine Fault Tolerance (PBFT) algorithm in 1999, Tendermint was Jae Kwon’s first PoS adaptation. This section is cited from Tendermint official website.
+
+![consensus](pics/consensus.png)
 
 “*BFT-based PoS protocols pseudo-randomly assign a validator the right to propose new blocks during a multi-round voting process. However, committing and finalizing blocks depends on a supermajority* *—* *a >⅔ quorum* *—* *of all validators signing off on the proposed block. This may take several rounds, or polkas, before blocks become finalized. BFT systems can only tolerate up to a ⅓ of failures, where failures can include arbitrary or malicious behaviour.*
 
@@ -258,9 +264,10 @@ Like other networks in Cosmos, Hashgard uses Tendermint as its consensus layer. 
 
 *At the core, Tendermint works as a round-based voting mechanism which makes the consensus protocol. A round is broken up into a three-step process through which validators propose blocks, signal commitment intent and then sign to commit new blocks. This mechanism yields a secure state replication machine for atomic broadcast with an added layer of accountability* *—* *safety faults are perfectly attributable in Tendermint.*
 
+
 *Tendermint consensus algorithm begins with a set of validators. Validators maintain a full copy of the blockchain and are identified by their public keys. They take turns proposing blocks at each new block height. There is at most one proposer per voting round. Each proposal is signed by a validator’s corresponding private key so that the validator responsible for it can be identified if some failure were to occur. The rest of the validators then vote on each proposal, signing their votes with their private keys. This constitutes a single round. But it may take several rounds before a new block is committed due to network asynchrony.*
 
-![clip_image014-8320735](pics/consensus_logic.png)
+
 
 *Validators may fail to commit a block for a number of arbitrary reasons; i.e., the current proposer may be offline, or a network may be experiencing latency. Tendermint allows a validator to be skipped. Validators wait a small amount of time to receive a complete proposal block from the proposer before voting to move to the next round. This reliance on a timeout is what makes Tendermint a weakly synchronous protocol, rather than an asynchronous one. However, the rest of the protocol is asynchronous, and validators only make progress after hearing from more than ⅔ of the validator set. As such, Tendermint requires 100% uptime from a supermajority of its validators because if ⅓ or more are offline or partitioned, the network may halt.*
 
@@ -507,14 +514,14 @@ Hashgard validators costs include:
 3.  Asset holding costs (self-pledged GARD)
 
 
+|                                    | *Active verification nodes* | *Candidate nodes/Full nodes* |
+| ---------------------------------- | ----------------------------- | ------------------------------ |
+| Maximum number                     | 100                         | /                              |
+| Synchronization of complete blocks | Yes                           | Yes                            |
+| Block generation                   | Yes                           | No                             |
+| Proposal votes counted             | Yes                           | No                             |
+| Penalty for reduction              | Yes                           | No                             |
 
-|                                      | Active validators | Candidate nodes/Full nodes |
-| ------------------------------------ | --------------------- | ------------------------------ |
-| Maximum number                       | 100                 | /                              |
-| Synchronization of complete   blocks | Yes                   | Yes                            |
-| Block production                     | Yes                   | No                             |
-| Proposal votes counted               | Yes                   | No                             |
-| Token deduction as penalty           | Yes                   | No                             |
 
 ### 3.6.3 Delegators
 
@@ -621,10 +628,9 @@ Our expected development roadmap is as follows. This roadmap is only for general
 
 - Asgard (Jan. 2021-): In the third phase, Hashgard will continue to build a digital financial business ecosystem through developer incentives and community building.
 
-
 ## 3.8 Ecosystem
 
-![2019-03-27-033739](assets/clip_image015-8320735.png)
+
 
 ![ecosystem_en](pics/ecosystem_en.png)  
 
