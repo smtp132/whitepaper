@@ -258,6 +258,7 @@ Like other networks in Cosmos, Hashgard uses Tendermint as its consensus layer. 
 
 *At the core, Tendermint works as a round-based voting mechanism which makes the consensus protocol. A round is broken up into a three-step process through which validators propose blocks, signal commitment intent and then sign to commit new blocks. This mechanism yields a secure state replication machine for atomic broadcast with an added layer of accountability* *—* *safety faults are perfectly attributable in Tendermint.*
 
+
 *Tendermint consensus algorithm begins with a set of validators. Validators maintain a full copy of the blockchain and are identified by their public keys. They take turns proposing blocks at each new block height. There is at most one proposer per voting round. Each proposal is signed by a validator’s corresponding private key so that the validator responsible for it can be identified if some failure were to occur. The rest of the validators then vote on each proposal, signing their votes with their private keys. This constitutes a single round. But it may take several rounds before a new block is committed due to network asynchrony.*
 
 ![clip_image014-8320735](pics/consensus_logic.png)
