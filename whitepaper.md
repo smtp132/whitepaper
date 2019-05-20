@@ -234,7 +234,7 @@ PBFT consensus.
 
 ### 3.1.1 Network Architecture
 
-![framework_en](assets/framework_en.png)
+![framework_en](pics/framework_en.png)
 
 As shown in the diagram, Hashgard has a similar topological structure to Cosmos and IRISnet. It is a blockchain zone for the financial industry based on Cosmos. On the basis of the Cosmos SDK, Hashgard has developed a completely new framework for finance through which traditional financial institutions can quickly migrate their business to the blockchain world for rapid development and deployment, creating new business application scenarios without the need to deeply understand the underlying technology. Companies with high requirenments on security and reliability can also directly use Hashgard and the packages released on it to build and deploy their own independent chains to run their own applications.
 
