@@ -295,7 +295,7 @@ Storing data on blockchain can be costly, and the technical characteristics of b
 
 ### 3.2.4 Deposits
 
-Hashgard allows users who are unable to build validators to delegate their tokens to active validators, to share their block generation rewards and participate in community governance.
+Hashgard allows users who are unable to build validators to delegate their tokens to active validators, to share their block production rewards and participate in community governance.
 
 For redemption, tokens must be locked for a period of time before they can be released and circulated freely. If any hidden dangers are found affecting asset security, such as instability of an active validators, the delegator can immediately transfer the token to other active nodes.
 
@@ -515,11 +515,11 @@ Hashgard validators costs include:
 
 
 
-|                                    | *Active verification nodes* | *Candidate nodes/Full nodes* |
+|                                    | *Active Validators* | *Candidate validators/Full validators* |
 | ---------------------------------- | ----------------------------- | ------------------------------ |
 | Maximum number                     | 100                         | /                              |
 | Synchronization of complete blocks | Yes                           | Yes                            |
-| Block generation                   | Yes                           | No                             |
+| Block production                   | Yes                           | No                             |
 | Proposal votes counted             | Yes                           | No                             |
 | Penalty for reduction              | Yes                           | No                             |
 
@@ -527,7 +527,7 @@ Hashgard validators costs include:
 
 ### 3.6.3 Delegators
 
-Delegators are GARD holders unable or do not desire to be a validator. They participate in governance such as online voting through delegation to active validators, and get block generation rewards. Their corresponding active validators exercise voting rights on their behalf. A non-delegated token has no voting rights. 
+Delegators are GARD holders unable or do not desire to be a validator. They participate in governance such as online voting through delegation to active validators, and get block production rewards. Their corresponding active validators exercise voting rights on their behalf. A non-delegated token has no voting rights. 
 
 ### 3.6.4 Commissions
 
