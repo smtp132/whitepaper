@@ -1,12 +1,4 @@
----
-typora-copy-images-to: ./pics
----
-
-
-
-  
-
-# Hashgard Digital Finance Blockchain White Paper
+  # Hashgard Digital Finance Blockchain White Paper
 
 A Next-Generation Digital Finance Public Blockchain
 
