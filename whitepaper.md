@@ -514,6 +514,7 @@ Hashgard validators costs include:
 3.  Asset holding costs (self-pledged GARD)
 
 
+
 |                                    | *Active verification nodes* | *Candidate nodes/Full nodes* |
 | ---------------------------------- | ----------------------------- | ------------------------------ |
 | Maximum number                     | 100                         | /                              |
@@ -521,6 +522,7 @@ Hashgard validators costs include:
 | Block generation                   | Yes                           | No                             |
 | Proposal votes counted             | Yes                           | No                             |
 | Penalty for reduction              | Yes                           | No                             |
+
 
 
 ### 3.6.3 Delegators
