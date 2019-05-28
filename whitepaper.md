@@ -317,7 +317,7 @@ Hashgard supports the token lock-up function, financial institutions and users c
 
 2. Information is transparent and available for inquiry. 
 
-3.2.7 Fungible Token Issuance Protocol (HRC10)
+### 3.2.7 Fungible Token Issuance Protocol (HRC10)
 
 Hashgard supports the issuance of fungible utility tokens with similar functions to the well-known ERC20 token of Ethereum, but with following features.
 
