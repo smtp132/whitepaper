@@ -355,11 +355,19 @@ In Hashgard, users (called box owners) can create a "deposit box," acting as a t
 
 For example, box owner A creates Box 1, specifying acceptable token type AA. The minimum amount accepted is 1000 AA and the maximum amount is 10,000 AA with total interest rate of 1000 BB and deposit term of 10 days. Therefore, after creating Box 1, owner A needs to deposit 1000 BB to activate the box. After investor B deposits 2000 AA into Box 1, the box reached its minimum required amount. Investor B will be given a certificate (named AA-1). Upon its maturity, the system automatically converts the certificate in investor B's account into 2000 AA and 200 BB as interest. 
 
-### 3.2.10 Future Payment Protocol
+### 3.2.10 Future Payment Protocol(HRC13)
 
 FutureBox is a system native special payment box that can be set to pay different amounts of tokens for different users at multiple times. And you can set whether the payment certificate has a trading function. User deposits ones own token to the FutureBox and sets the account address, amounts to be paid, payment time and whether to support the receivable certificate trading function. After the setting is completed, the receiving account will get a receivable certificate. It can be traded according to the issuer's settings. Upon expiration, the system will automatically convert the user's receivable certificate into a 1:1 spot token. Forward payment protocol can be used in financial areas such as bonds, checks, futures and other application scenarios.
 
-### 3.2.11 Dividend Allocation Protocol (HRC13)
+### 3.2.12 Alias Service Protocol (HRC14)
+
+In the blockchain world, wallet addresses are composed of random letters and numbers, making them difficult to understand. A native alias service protocol simplifies payment and generates more application scenarios, in order to facilitate migration of traditional financial enterprise users to Hashgard.
+
+A Hashgard account alias is a series of letters and numbers from 8 to 20 characters: for example, "charelie1234" or "taalic5566". Aliases with less than 8 characters are reserved for future expansion.
+
+Any user can choose a customized account alias with a fee and point it to another address, or transfer it to another user. Once the alias is set up, the user can use it to make payments in the system. For example, after a user points the alias "taalic5566" to the address gardABCDEFGHIJKLMNOPQRSK, subsequent payments by any other user can be released to the user's address in the main network just by using "taalic5566".
+
+### 3.2.11 Dividend Allocation Protocol (HRC15)
 
 Hashgard system provides a native BonusBox with a dividend allocation function, allowing for snapshots at a certain block height, allocating dividends to users holding certain token types.
 
@@ -372,13 +380,7 @@ This function can be used for:
 
 For example, supposing the total circulation of ABC token is 100 million, the issuer of another token DEF (known as the distributor) hopes to airdrop to all ABC token holders at a ratio of 100:1 on December 1, 00:00 a.m. The distributor must put 1 million DEF into the box and set up the airdrop before that time. On December 1, the system automatically records each user's ABC holdings, and the corresponding DEF token amount becomes available through a prompt in the user’s “my wallet.” Users can click on the "get" button to receive the airdrop.
 
-### 3.2.12 Alias Service Protocol (HRC14)
 
-In the blockchain world, wallet addresses are composed of random letters and numbers, making them difficult to understand. A native alias service protocol simplifies payment and generates more application scenarios, in order to facilitate migration of traditional financial enterprise users to Hashgard.
-
-A Hashgard account alias is a series of letters and numbers from 8 to 20 characters: for example, "charelie1234" or "taalic5566". Aliases with less than 8 characters are reserved for future expansion.
-
-Any user can choose a customized account alias with a fee and point it to another address, or transfer it to another user. Once the alias is set up, the user can use it to make payments in the system. For example, after a user points the alias "taalic5566" to the address gardABCDEFGHIJKLMNOPQRSK, subsequent payments by any other user can be released to the user's address in the main network just by using "taalic5566".
 
 ## 3.3 External Interface Services
 
