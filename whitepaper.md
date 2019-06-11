@@ -2,11 +2,11 @@
 
 **A Next-Generation Digital Finance Public Blockchain**
 
- 
+
 
 March 2019, Hashgard Foundation Ltd.
 
-​    
+​
 
 [TOC]
 
@@ -24,7 +24,7 @@ In 2008, Satoshi Nakamoto released *Bitcoin: A Peer to Peer Electronic Cash Syst
 
 In 2015, the open-source project Ethereum was officially released, featuring the concept of smart contracts, inspiring a host of innovators. Ethereum provides complete freedom through its Turing-complete scripting language, and allows for consistent registration and transfer of a variety of digital assets and smart contracts, greatly facilitating the issuance and circulation of digital currency, and significantly broadening its application scenarios.
 
-The rapid development of blockchain technology has gradually raised the public profile of digital currency. This has especially been the case since early 2017, when initial coin offerings (ICOs) became an increasingly prominent and frequent business practice, helping a broad plethora of products to continuously emerge across the industry, bringing a new cycle of prosperity to the digital currency market. At the end of 2017, this surge reached its peak, and observers inside and outside the industry widely opined that blockchain would become the next tech revolution following the mobile internet. During this same period, a large number of leaders in the tech and finance industries began to actively embrace blockchain for use in their companies or projects. 
+The rapid development of blockchain technology has gradually raised the public profile of digital currency. This has especially been the case since early 2017, when initial coin offerings (ICOs) became an increasingly prominent and frequent business practice, helping a broad plethora of products to continuously emerge across the industry, bringing a new cycle of prosperity to the digital currency market. At the end of 2017, this surge reached its peak, and observers inside and outside the industry widely opined that blockchain would become the next tech revolution following the mobile internet. During this same period, a large number of leaders in the tech and finance industries began to actively embrace blockchain for use in their companies or projects.
 
 ## 1.2 The Impact of Blockchain on Traditional Finance
 
@@ -34,16 +34,16 @@ The arrival of blockchain today marks another historical era.
 
 Blockchain, together with technologies such as big data, AI, cloud computing, and bio-informatics, will form the financial infrastructure for the next generation. This infrastructure will be able to overcome several longstanding problems in the current financial system, as follows.
 
-1.  In the traditional centralized financial system, financial intermediary fees are high enough to limit transaction scale. Intermediaries not only have large expenses for themselves, but also require high profits to cover potential credit risks. Due to the high cost, when using traditional financial intermediary services, financial institutions often set minimum scales of transactions for deposit, cross-border transfer, stock and fund transaction sizes, frequently blocking small and micro-sized transactions. However, blockchain distributed ledger is a trust machine. It can help financial institutions save on intermediary costs, without requiring a third-party intermediary, making small and micro-sized peer-to-peer transactions possible. 
+1.  In the traditional centralized financial system, financial intermediary fees are high enough to limit transaction scale. Intermediaries not only have large expenses for themselves, but also require high profits to cover potential credit risks. Due to the high cost, when using traditional financial intermediary services, financial institutions often set minimum scales of transactions for deposit, cross-border transfer, stock and fund transaction sizes, frequently blocking small and micro-sized transactions. However, blockchain distributed ledger is a trust machine. It can help financial institutions save on intermediary costs, without requiring a third-party intermediary, making small and micro-sized peer-to-peer transactions possible.
 
-2.  In the traditional centralized financial system, users may be defrauded. Transactions are frequently not “atomized,” but rather the intermediary assumes the responsibility as a guarantor, which makes it possible for either party to maliciously default and defraud the other party. Since blockchain is a distributed technology, though, a financial system based on it contains no single point of failure, and creates no risk of collapse. 
-
- 
-
-3.  In the traditional centralized financial system, users’ private data and assets are potentially vulnerable. In recent years, cases of private user data leakage have been reported by various media outlets. Massive amounts of personal identities, bank accounts, transaction records, and even passwords have been listed for sale on various websites, resulting in serious threats to user privacy and asset security. However, in the blockchain network, user data is kept by users themselves, instead of in a centralized system, realizing democratization of data, and effectively protecting privacy and asset security. 
+2.  In the traditional centralized financial system, users may be defrauded. Transactions are frequently not “atomized,” but rather the intermediary assumes the responsibility as a guarantor, which makes it possible for either party to maliciously default and defraud the other party. Since blockchain is a distributed technology, though, a financial system based on it contains no single point of failure, and creates no risk of collapse.
 
 
-Obviously, with the continuous development of blockchain technology, its distributed ledgers, smart contracts, zero-knowledge proofs, multi-party secure computation, and homomorphic encryption can effectively resolve pain points in the current financial industry, and may create the possibility for new models and products, thus creating a more intelligent, more effective, and safer financial ecosystem. 
+
+3.  In the traditional centralized financial system, users’ private data and assets are potentially vulnerable. In recent years, cases of private user data leakage have been reported by various media outlets. Massive amounts of personal identities, bank accounts, transaction records, and even passwords have been listed for sale on various websites, resulting in serious threats to user privacy and asset security. However, in the blockchain network, user data is kept by users themselves, instead of in a centralized system, realizing democratization of data, and effectively protecting privacy and asset security.
+
+
+Obviously, with the continuous development of blockchain technology, its distributed ledgers, smart contracts, zero-knowledge proofs, multi-party secure computation, and homomorphic encryption can effectively resolve pain points in the current financial industry, and may create the possibility for new models and products, thus creating a more intelligent, more effective, and safer financial ecosystem.
 
 
 ## 1.3 Blockchain + Finance Integration and Pilot Projects
@@ -52,7 +52,7 @@ At the present phase, extensive blockchain integration and pilot projects have b
 
 ### 1.3.1 Blockchain + Cross-border Payments
 
-Blockchain has the following strengths for transfer: low cost, real-time settlement, regulatory-friendly, and high liquidity. Blockchain project Ripple has launched several cross-border payment schemes for the banking sector, including (1) xCurrent: a real-time settlement solution for financial institutions, realizing quick, convenient and low-cost end-to-end cross-border interbank transfers; (2) XRapid: a real-time settlement solution based on Ripple (XPR) token, which can save 40% - 70% compared to the cost of ordinary international remittance schemes; (3) XVia, which provides a standard interface product for payment between companies through a real-time gateway settlement channel. In January 2019, Ripple announced that it had served over 200 cross-border payment providers, such as MUFG, Mizuho Bank, Crédit Agricole, SEB, the international payments platform of American Express, and Banco Santander, with 2 - 3 new customers being added per week. With its rapidly growing cross-border payment business, many experts predict that Ripple will replace SWIFT to become a cross-border payment giant. 
+Blockchain has the following strengths for transfer: low cost, real-time settlement, regulatory-friendly, and high liquidity. Blockchain project Ripple has launched several cross-border payment schemes for the banking sector, including (1) xCurrent: a real-time settlement solution for financial institutions, realizing quick, convenient and low-cost end-to-end cross-border interbank transfers; (2) XRapid: a real-time settlement solution based on Ripple (XPR) token, which can save 40% - 70% compared to the cost of ordinary international remittance schemes; (3) XVia, which provides a standard interface product for payment between companies through a real-time gateway settlement channel. In January 2019, Ripple announced that it had served over 200 cross-border payment providers, such as MUFG, Mizuho Bank, Crédit Agricole, SEB, the international payments platform of American Express, and Banco Santander, with 2 - 3 new customers being added per week. With its rapidly growing cross-border payment business, many experts predict that Ripple will replace SWIFT to become a cross-border payment giant.
 
 ### 1.3.2 Blockchain + Asset Management
 
@@ -60,21 +60,21 @@ The digital asset management industry is currently in the ascendant. By February
 
 ### 1.3.3 Blockchain + Digital Fiat Currencies
 
-Venezuelan President Nicolás Maduro announced the birth of the Petro in a televised speech on December 3, 2017. Venezuela launched the pre-sale on February 20, 2018, making the country a world leader in digital fiat. The pre-sale raised 735 million USD on the first day. 
+Venezuelan President Nicolás Maduro announced the birth of the Petro in a televised speech on December 3, 2017. Venezuela launched the pre-sale on February 20, 2018, making the country a world leader in digital fiat. The pre-sale raised 735 million USD on the first day.
 
-According to the White Paper, the Venezuelan government expected to issue 100 million Petros, worth about 60 billion USD, and it will be listed on cryptocurrency exchanges. The government will accept Petros as payment for taxes, fees, donations, and public services. State-owned companies including the petroleum company PDVSA will also participate in Petro sale and purchase. 
+According to the White Paper, the Venezuelan government expected to issue 100 million Petros, worth about 60 billion USD, and it will be listed on cryptocurrency exchanges. The government will accept Petros as payment for taxes, fees, donations, and public services. State-owned companies including the petroleum company PDVSA will also participate in Petro sale and purchase.
 
 Maduro said that the new currency would be supported by Venezuela's oil, gasoline, gold, and diamond reserves. The Petro will help Venezuela “move forward in currency sovereignty” and provide the country with “a new form of international financing.” Through this innovative step, Maduro hoped to lead the country out of its mire of hyperinflation and severe economic crisis, paying off debts and increasing imports of necessities and raw materials. He also hoped to bypass the economic sanctions imposed by the US government, allowing US individuals and Venezuelan enterprises to resume business.
 
-Besides Venezuela, many other countries are also accelerating research on digital fiat currencies based on blockchain. For example, the Monetary Authority of Singapore and Deloitte have jointly launched Project Ubin to digitize the Singapore dollar (SGD). The Bank of Canada has also launched CAD-coin, a Jasper-based digital fiat currency project; the People's Bank of China has established the Digital Currency Research Institute, organizing experts to study central bank digital currencies; and the Marshall Islands will issue its own legal tender cryptocurrency, pegged to the US dollar. As the technology continues to develop, we believe that more countries will eventually use blockchain to build their own digital currencies. 
+Besides Venezuela, many other countries are also accelerating research on digital fiat currencies based on blockchain. For example, the Monetary Authority of Singapore and Deloitte have jointly launched Project Ubin to digitize the Singapore dollar (SGD). The Bank of Canada has also launched CAD-coin, a Jasper-based digital fiat currency project; the People's Bank of China has established the Digital Currency Research Institute, organizing experts to study central bank digital currencies; and the Marshall Islands will issue its own legal tender cryptocurrency, pegged to the US dollar. As the technology continues to develop, we believe that more countries will eventually use blockchain to build their own digital currencies.
 
 ### 1.3.4 Blockchain + Trusted Identity
 
-In early 2018, SecureKey, initially established in Canada, cooperated with IBM to release a nationwide identity and authentication system based on blockchain. The new system applies IBM’s blockchain technology to enable users to prove their identity to the government, banks, and telecommunication operators through mobile phones and Windows devices. Through the app, they can also confirm details such as their age or credit score when accessing services. Online consumers will no longer need to sign documents by themselves or provide other identification materials when applying for new apartments or mobile phones. The blockchain authentication system will enable them to control and share their personal information without using a centralized system to create “value” information, with its security vulnerabilities. It is reported that Toronto-Dominion Bank, the Royal Bank of Canada, and other large financial institutions have invested CAD 30 million (about US$ 23.5 million) in the program. 
+In early 2018, SecureKey, initially established in Canada, cooperated with IBM to release a nationwide identity and authentication system based on blockchain. The new system applies IBM’s blockchain technology to enable users to prove their identity to the government, banks, and telecommunication operators through mobile phones and Windows devices. Through the app, they can also confirm details such as their age or credit score when accessing services. Online consumers will no longer need to sign documents by themselves or provide other identification materials when applying for new apartments or mobile phones. The blockchain authentication system will enable them to control and share their personal information without using a centralized system to create “value” information, with its security vulnerabilities. It is reported that Toronto-Dominion Bank, the Royal Bank of Canada, and other large financial institutions have invested CAD 30 million (about US$ 23.5 million) in the program.
 
 ### 1.3.5 Blockchain + Corporate Tokens
 
-In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, announced a plan to issue its own digital currency, JPMCoin on its private chain platform Quorum. JPMCoin is pegged at a 1:1 ratio to the US dollar, and the company will use its strong capital reserve to ensure the stability of its token. JPMCoin is designed for inter-enterprise capital flow, and its early applications mainly involve cross-border payment, securities trading, and US dollar substitution for large enterprise customers. However, few institutional customers have participated in the test. Meanwhile, the internet giant Facebook is also quietly moving into cryptocurrency. 
+In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, announced a plan to issue its own digital currency, JPMCoin on its private chain platform Quorum. JPMCoin is pegged at a 1:1 ratio to the US dollar, and the company will use its strong capital reserve to ensure the stability of its token. JPMCoin is designed for inter-enterprise capital flow, and its early applications mainly involve cross-border payment, securities trading, and US dollar substitution for large enterprise customers. However, few institutional customers have participated in the test. Meanwhile, the internet giant Facebook is also quietly moving into cryptocurrency.
 
 ### 1.3.6 Blockchain + Asset Transaction
 
@@ -92,13 +92,13 @@ Bakkt is building an open, seamless global network, enabling users to purchase, 
 
 There is no clear definition of security tokens, but according to general understanding in the industry, it can be simply defined as asset tokenization in accordance with regulations. The definition includes two main parts.
 
-1.  Token issuance and trading should comply with government regulations 
+1.  Token issuance and trading should comply with government regulations
 
 2.  Any kind of asset (tangible or intangible) may be transferred on the blockchain in the form of tokens.
 
 Regulation is the focus of security tokens. For example, in the United States, its issuance is subject to regulation by the SEC and other relevant bodies. Their subjects are also constrained by federal law. In general, security tokens must be registered with the SEC (except for exemptions which meet certain terms, such as Reg A+, Reg D, and Reg S, etc.) and observe all rules of securities laws. Regulation will push up issuance and transaction cost, and increase the threshold for participation in such tokens.
 
- 
+
 
 Although regulation has increased cost of issuance, the advantages of security tokens are clear:
 
@@ -114,11 +114,11 @@ Although regulation has increased cost of issuance, the advantages of security t
 
 6.  More financing channels for SMEs: more than 650,000 companies are created each year in the US alone, but Wall Street, Silicon Valley and angel investors do not provide sufficient capital for startups. Therefore, regulated and security tokens issuance, or Security Token Offerings (STOs), can help SMEs find new financing channels.
 
-​    
+​
 
 # Chapter II – Background and Design Objectives of Hashgard
 
-## 2.1 Background 
+## 2.1 Background
 
 Hashgard project was officially launched in March 2018, but its genesis can be traced back to exploration and research by its main team members on blockchain technology in 2013. This took forms including technical research on blockchain network architecture and open source code, development and verification of smart contracts based on Ethereum, early conception and incubation of blockchain projects, and establishment and management of token funds.
 
@@ -138,11 +138,11 @@ Hashgard team is building a blockchain network better adapted for the financial 
 
 1.  Capacity for financial-level trading
 
-2.  Support token issuance for corporate 
+2.  Support token issuance for corporate
 
 3.  More flexibility and scalability for future expansion
 
-4.  Support cross-chain interoperability 
+4.  Support cross-chain interoperability
 
 5.  Compliance with the requirements of financial regulations
 
@@ -150,13 +150,13 @@ Hashgard team is building a blockchain network better adapted for the financial 
 
 Hashgard is designed to support applications of both traditional finance and tokens.
 
-### 2.3.1 Traditional Finance Applications 
+### 2.3.1 Traditional Finance Applications
 
 #### 2.3.1.1 Rights Authentication and Financial Asset Tokenization
 
 Hashgard allows financial assets including stock equity, creditor's rights, and income rights, etc., to be registered, traded, and settled, etc. directly on the chain. Regulated, non-blockchain institutions take settlement and delivery based on blockchain records, greatly enhancing asset liquidity.
 
-#### 2.3.1.2 Issuance of Bonds and Bills 
+#### 2.3.1.2 Issuance of Bonds and Bills
 
 The bottom layer of Hashgard supports a forward payment protocol, making it easy to convert tokens into forward contracts. Automatic delivery is executed based on the bottom-layer protocol, which naturally supports issuance of multiple tokenized bond and bill on-chain.
 
@@ -168,13 +168,13 @@ Through tokenization of commercial paper and bank acceptance bills, Hashgard sup
 
 Hashgard supports tokenization and issuance of financial derivatives including forwards, futures, options, and swap contracts based on both traditional and digital financial assets.
 
-#### 2.3.2 Token Applications 
+#### 2.3.2 Token Applications
 
 #### 2.3.2.1 Enterprise Token Issuance
 
 On Hashgard public chain, enterprises can issue their own tokens, which can be taken as: (1) points in their ecosystem, to support both internal and external operations; (2) proofs representing equity ownership, to guarantee dividends; (3) bond tokens, guaranteeing repayment of the principal and interest upon maturity.
 
-#### 2.3.2.2 Batch Release 
+#### 2.3.2.2 Batch Release
 
 
 
@@ -188,13 +188,13 @@ Token issuers usually make use of position locking to reduce liquidity, encourag
 
 Most stable coins currently use Bitcoin extension information or the ERC20 Ethereum protocol, and provides exchange services between the token and its pegged fiat currency through off-chain institutions; i.e. USDT is issued by Tether, and PAX by PAXO. Stable coins greatly facilitate on-chain pricing and payment for assets, and provide users with good trading experience, but the following problems still exist:
 
-1. Because they are based on Bitcoin or Ethereum, besides the coin itself, the user must also hold BTC or ETH to pay transaction costs on the network, which most ordinary users find confusing and inconvenient; 
-2. Unlike with bank deposits, users holding stable coins in their wallets do not earn interest. This is because the processing capacity of the blockchain network is limited, and the stable coin issuers are not able to pay daily dividends; 
-3.  Stable coins held by users can only transact within one network, and they can't be used across chains. For example, users holding USDT (based on Bitcoin) are unable to purchase goods or services priced by the ERC20 version of USDT in Ethereum. 
+1. Because they are based on Bitcoin or Ethereum, besides the coin itself, the user must also hold BTC or ETH to pay transaction costs on the network, which most ordinary users find confusing and inconvenient;
+2. Unlike with bank deposits, users holding stable coins in their wallets do not earn interest. This is because the processing capacity of the blockchain network is limited, and the stable coin issuers are not able to pay daily dividends;
+3.  Stable coins held by users can only transact within one network, and they can't be used across chains. For example, users holding USDT (based on Bitcoin) are unable to purchase goods or services priced by the ERC20 version of USDT in Ethereum.
 
-In view of these weaknesses, Hashgard provides a better way to issue stable coins: 
+In view of these weaknesses, Hashgard provides a better way to issue stable coins:
 
-1. Payment for gas is very flexible, and more currencies can be added as options through online proposals and governance voting. Even stable coin users who do not hold Hashgard currency can also use their own stable coin to pay gas fees for business operations 
+1. Payment for gas is very flexible, and more currencies can be added as options through online proposals and governance voting. Even stable coin users who do not hold Hashgard currency can also use their own stable coin to pay gas fees for business operations
 2.  Hashgard provides a native reward distribution protocol, allowing stable coin issuers to pay dividends and interest to holders by means of "one-time dividends and asynchronous withdrawal," improving user experience without increasing network load;
 3. Hashgard natively supports cross-chain usage, so users can pay the stable coin directly on other networks.
 
@@ -224,7 +224,7 @@ Cosmos Hub is the first hub in the Cosmos network, and is mainly used for cross-
 
 IRIS Hub is another hub in the Cosmos Network. IRIS has new semantics allowing cross-chain computing power calls through IBC, and also integrating the distributed file system IPFS, which is particularly important for commercial applications.
 
-Ethermint provides the EVM module, allowing users to run smart contracts on Tendermint 
+Ethermint provides the EVM module, allowing users to run smart contracts on Tendermint
 
 PBFT consensus.
 
@@ -240,7 +240,7 @@ Hashgard Financial Service Framework includes three types of services.
 
 2.   Smart contract services refer to services deployed on Hashgard through smart contracts, such as security token and asynchronous price discovery protocols. Hashgard will provide subsequent smart contract services for users by integrating multiple virtual machines.
 
-3.   External interface services refer to services provided externally through the hService protocol. Service providers interact with users through input/output messages such as real-time financial data and audit report for institutional users. 
+3.   External interface services refer to services provided externally through the hService protocol. Service providers interact with users through input/output messages such as real-time financial data and audit report for institutional users.
 
 ### 3.1.2 Consensus Mechanism
 
@@ -250,7 +250,7 @@ Like other networks in Cosmos, Hashgard uses Tendermint as its consensus layer. 
 
 “*BFT-based PoS protocols pseudo-randomly assign a validator the right to propose new blocks during a multi-round voting process. However, committing and finalizing blocks depends on a supermajority* *—* *a >⅔ quorum* *—* *of all validators signing off on the proposed block. This may take several rounds, or polkas, before blocks become finalized. BFT systems can only tolerate up to a ⅓ of failures, where failures can include arbitrary or malicious behaviour.*
 
- 
+
 
 *Tendermint consists of two chief technical components: a blockchain consensus engine and a generic application interface. The consensus engine, called Tendermint Core, ensures that the same transactions are recorded on every machine in the same order. The application interface, called the* [*Application Blockchain Interface (ABCI)*](https://github.com/tendermint/abci)*,* *enables the transactions to be processed in any programming language.*
 
@@ -265,7 +265,7 @@ Like other networks in Cosmos, Hashgard uses Tendermint as its consensus layer. 
 
 *Assuming less than ⅓ of the validators are Byzantine, Tendermint guarantees that safety will never be violated* *—* *that is, validators will never commit conflicting blocks at the same height. Therefore, a Tendermint-based blockchain never forks.”*
 
- 
+
 
 ### 3.1.3 Cross-chain Interaction
 
@@ -311,11 +311,11 @@ Users can vote in four ways: “agree,” “oppose,” “abstain,” and “st
 
 ### 3.2.6 Token Lock-up
 
-Hashgard supports the token lock-up function, financial institutions and users can lock up tokens for a limited period of time in financial activities. It has following features: 
+Hashgard supports the token lock-up function, financial institutions and users can lock up tokens for a limited period of time in financial activities. It has following features:
 
 1. Hashgard supports this native function from the bottom of the blockchain. It is simple, secure and efficient. Users need to set the token type, amount and lock-up time of the token.
 
-2. Information is transparent and available for inquiry. 
+2. Information is transparent and available for inquiry.
 
 ### 3.2.7 Fungible Token Issuance Protocol (HRC10)
 
@@ -333,7 +333,7 @@ Before the atomic swap protocol, major centralized trading protocols (such as ex
 
 1.   Most of the costs were passed on to users
 
-2.  Exchanges acted as a single point of system failure 
+2.  Exchanges acted as a single point of system failure
 
 The model also required each party to rely on institutions to facilitate transactions and reverse them in the event of disputes. Due to the lack of transaction finality, the transaction parties inherited the costs of mediation for the need of trust extension.
 
@@ -351,9 +351,9 @@ The atomic swap protocol shows that the following points can be achieved through
 
 ### 3.2.9 Deposit Protocol (HRC12)
 
-In Hashgard, users (called box owners) can create a "deposit box," acting as a timed deposit service in a bank. Other users (called box "investors") can add tokens of a specified type and limited number into the box to obtain certificates, using which the investors can receive the principal back with corresponding interest upon deposit maturity. Issuer can set whether the certificate can be traded and transferred and whether the principal and interest are the same token type. 
+In Hashgard, users (called box owners) can create a "deposit box," acting as a timed deposit service in a bank. Other users (called box "investors") can add tokens of a specified type and limited number into the box to obtain certificates, using which the investors can receive the principal back with corresponding interest upon deposit maturity. Issuer can set whether the certificate can be traded and transferred and whether the principal and interest are the same token type.
 
-For example, box owner A creates Box 1, specifying acceptable token type AA. The minimum amount accepted is 1000 AA and the maximum amount is 10,000 AA with total interest rate of 1000 BB and deposit term of 10 days. Therefore, after creating Box 1, owner A needs to deposit 1000 BB to activate the box. After investor B deposits 2000 AA into Box 1, the box reached its minimum required amount. Investor B will be given a certificate (named AA-1). Upon its maturity, the system automatically converts the certificate in investor B's account into 2000 AA and 200 BB as interest. 
+For example, box owner A creates Box 1, specifying acceptable token type AA. The minimum amount accepted is 1000 AA and the maximum amount is 10,000 AA with total interest rate of 1000 BB and deposit term of 10 days. Therefore, after creating Box 1, owner A needs to deposit 1000 BB to activate the box. After investor B deposits 2000 AA into Box 1, the box reached its minimum required amount. Investor B will be given a certificate (named AA-1). Upon its maturity, the system automatically converts the certificate in investor B's account into 2000 AA and 200 BB as interest.
 
 ### 3.2.10 Future Payment Protocol(HRC13)
 
@@ -450,11 +450,11 @@ The following discussion is based on the single token economic model.
 
 Hashgard tokens include system-level and application-level tokens. GARD is a system-level token corresponding to the blockchain operations such as the use of system rights, public network resources, public computing resources, and public storage resources for transfers, enterprise token issuance, and applications building. Application-level tokens are independently created by developers and may be used in associated DApps.
 
-It’s up to app developers to choose token types for payment.     
+It’s up to app developers to choose token types for payment.
 
 ### 3.5.4 GARD System-level Tokens
 
-GARD is a system-level token, serving as a medium for value transfer and representing usage rights for the entire system to achieve rapid value circulation within the ecosystem. Its five purposes are:  
+GARD is a system-level token, serving as a medium for value transfer and representing usage rights for the entire system to achieve rapid value circulation within the ecosystem. Its five purposes are:
 
 1.  User apply to be validators or hService service providers by staking
 
@@ -462,7 +462,7 @@ GARD is a system-level token, serving as a medium for value transfer and represe
 
 3.   Fees to the system or applications
 
-4.  Block producing rewards for active validators 
+4.  Block producing rewards for active validators
 
 5.   Ecosystem contribution
 
@@ -477,27 +477,27 @@ GARD is a system-level token, serving as a medium for value transfer and represe
 | 10%   | 10 billion  | IP contribution team                                         | Will be locked for a year after   listing (7/12/2018)        |
 | 40%   | 40 billion  | Allocagted to   Foundation for R&D, marketing and ecosystem building. | 10% will be   allocated for community awards/market promotions, 10%-15% for R&D, and   15%-20% for ecosystem building. |
 
-> Note: The latest turnover of GARD is displayed on official announcements 
+> Note: The latest turnover of GARD is displayed on official announcements
 
 ## 3.6 Consensus and Governance Structures
 
-From the perspective of the open source spirit, Hashgard is not owned by its early development team, nor, following formal source opening and main network launch, will the team and the Foundation be the only people developing and maintaining the network. As a part of the main network launch, the early team and Foundation will propose governing structures and decision-making processes aimed at supporting the continuous development of the ecosystem.  
+From the perspective of the open source spirit, Hashgard is not owned by its early development team, nor, following formal source opening and main network launch, will the team and the Foundation be the only people developing and maintaining the network. As a part of the main network launch, the early team and Foundation will propose governing structures and decision-making processes aimed at supporting the continuous development of the ecosystem.
 
-Although decentralization is the fundamental concept of blockchain, it would face a reaction lag when making major decisions, and the discourse tends to be controlled by nodes. (This problem is more significant in the PoS model). For the moment, even with blockchain, it is overly idealistic to aim for complete decentralization.     
+Although decentralization is the fundamental concept of blockchain, it would face a reaction lag when making major decisions, and the discourse tends to be controlled by nodes. (This problem is more significant in the PoS model). For the moment, even with blockchain, it is overly idealistic to aim for complete decentralization.
 
 The crux of Hashgard governance architecture design is to find a balance on decentralization. The governance architecture is able to make proper adjustments according to the actual situation at different ecosystem development stages. Governance architecture is a clearly defined mechanism to coordinate any changes to the blockchain such as system parameters, software updates, and constitutional amendments.
 
 ### 3.6.1 Stakeholders
 
-Stakeholders refers to holders of GARD equity tokens, some of whom play specific roles such as active validators and candidate nodes. Stakeholders can be persons with legal identity or anonymous individuals, companies, governmental organizations, non-profit entities, or other organizations. The voting mechanism design ensures full coverage of all stakeholders in the ecosystem.  
+Stakeholders refers to holders of GARD equity tokens, some of whom play specific roles such as active validators and candidate nodes. Stakeholders can be persons with legal identity or anonymous individuals, companies, governmental organizations, non-profit entities, or other organizations. The voting mechanism design ensures full coverage of all stakeholders in the ecosystem.
 
 ### 3.6.2 Validators
 
-In the classic practical Byzantine fault-tolerant algorithm (PBFT), each node shares the same weight. Hashgard validators are related to the voting rights they hold. Those holding considerable voting rights are called active validators, which take turns to submit new blocks and sign their names. Nodes which only synchronize blocks instead of producing them, are called candidate nodes. Election of validators is dynamic. Only when the candidate nodes’ staked equity ranks among the top of the number of active nodes allowed by the current network, do they become validators. Active validators can produce blocks, receive awards, and vote on proposals on behalf of delegators. Note that any users can initiate a proposal, as long as their token deposits reach the activation threshold. However, only votes coming from active validators and their delegators are counted.  
+In the classic practical Byzantine fault-tolerant algorithm (PBFT), each node shares the same weight. Hashgard validators are related to the voting rights they hold. Those holding considerable voting rights are called active validators, which take turns to submit new blocks and sign their names. Nodes which only synchronize blocks instead of producing them, are called candidate nodes. Election of validators is dynamic. Only when the candidate nodes’ staked equity ranks among the top of the number of active nodes allowed by the current network, do they become validators. Active validators can produce blocks, receive awards, and vote on proposals on behalf of delegators. Note that any users can initiate a proposal, as long as their token deposits reach the activation threshold. However, only votes coming from active validators and their delegators are counted.
 
-Holders of GARD equity tokens are able to become validators by signing and submitting a self-binding transaction. They must set their commission ratio, maximum ratio, maximum daily commission variation, and minimum quantity of self-deposit (showing their ability to take risks. All pledged equity is released if the number of self-pledged modes falls below the set number). The maximum number of active validators is set during network initialization, and may be modified later through proposals and governance. Anyone may apply to become a validator, and nodes’ total equity is equal to the sum of their self-pledged and commissioned equity. Only when a node’s total equity ranks among the top *n* of the network (where *n* is the maximum active number currently allowed), can it become a validator, and take part in block production and governance. If it no longer ranks in the active validators queue, it is no longer be allowed to produce blocks. Delegators can manually transfer their delegated equity to other active validators.   
+Holders of GARD equity tokens are able to become validators by signing and submitting a self-binding transaction. They must set their commission ratio, maximum ratio, maximum daily commission variation, and minimum quantity of self-deposit (showing their ability to take risks. All pledged equity is released if the number of self-pledged modes falls below the set number). The maximum number of active validators is set during network initialization, and may be modified later through proposals and governance. Anyone may apply to become a validator, and nodes’ total equity is equal to the sum of their self-pledged and commissioned equity. Only when a node’s total equity ranks among the top *n* of the network (where *n* is the maximum active number currently allowed), can it become a validator, and take part in block production and governance. If it no longer ranks in the active validators queue, it is no longer be allowed to produce blocks. Delegators can manually transfer their delegated equity to other active validators.
 
-The active node selected to propose the subsequent block is called the proposer. Each proposer is elected by clear means, at a frequency related to its total equity ratio (total equity = self-pledged equity + delegators’ equity). For instance, if the active validators have total pledged equity of 10 billion GARD, and the total equity of one of them is 1 billion GARD, there is then a 10% chance that it will be selected as the next proposer.        
+The active node selected to propose the subsequent block is called the proposer. Each proposer is elected by clear means, at a frequency related to its total equity ratio (total equity = self-pledged equity + delegators’ equity). For instance, if the active validators have total pledged equity of 10 billion GARD, and the total equity of one of them is 1 billion GARD, there is then a 10% chance that it will be selected as the next proposer.
 
 Hashgard validators costs include:
 
@@ -521,37 +521,37 @@ Hashgard validators costs include:
 
 ### 3.6.3 Delegators
 
-Delegators are GARD holders unable or do not desire to be a validator. They participate in governance such as online voting through delegation to active validators, and get block production rewards. Their corresponding active validators exercise voting rights on their behalf. A non-delegated token has no voting rights. 
+Delegators are GARD holders unable or do not desire to be a validator. They participate in governance such as online voting through delegation to active validators, and get block production rewards. Their corresponding active validators exercise voting rights on their behalf. A non-delegated token has no voting rights.
 
 ### 3.6.4 Commissions
 
-Rewards received by the equity pool of an active validator are split between the node itself and delegators. The former can reward itself with a set percentage of the proceeds it receives from their delegators as commission. Each validator can freely set its initial commission, maximum daily change ratio, and maximum limit for commission. Hashgard requires each validator to explicitly set these parameters, which can only be set when the campaign is announced, and these parameters can only be further restricted after the announcement.     
+Rewards received by the equity pool of an active validator are split between the node itself and delegators. The former can reward itself with a set percentage of the proceeds it receives from their delegators as commission. Each validator can freely set its initial commission, maximum daily change ratio, and maximum limit for commission. Hashgard requires each validator to explicitly set these parameters, which can only be set when the campaign is announced, and these parameters can only be further restricted after the announcement.
 
 ### 3.6.5 Block Production Rewards
 
 Hashgard production rewards are granted in proportional to the total equity of active validators, which means that each still maintain the same weight even if every active validator is rewarded upon block production. In the initial stages, block production rewards will be donated by Hashgard Foundation. In the subsequent stages, whether additional GARD are used to reward active validators will depend on community proposals.
 
-For example: Suppose that the block production reward at a certain height is 30,500 GARD, and there are three active validators with equal shares. 
+For example: Suppose that the block production reward at a certain height is 30,500 GARD, and there are three active validators with equal shares.
 
 The active validator proposing the block, or the "proposer"(self-pledges account for 20%, and pledges by delegators account for 80%):
 
-- Receives a reward pool of 30,500/305%*105%=10,500 GARD (5% more for the proposer)       
+- Receives a reward pool of 30,500/305%*105%=10,500 GARD (5% more for the proposer)
 
 - Proposer's commission: 10,500*80%*5%=420 GARD (validators can set up their own commission, which is 5% in this case)
 
 - Proposer's total rewards: 10500*20%+420=2520 GARD
 
-- Total rewards for delegators of the proposer: 10,500*80%-420=7,980 GARD (each delegator gets a portion of rewards proportional to their equity ratio) 
+- Total rewards for delegators of the proposer: 10,500*80%-420=7,980 GARD (each delegator gets a portion of rewards proportional to their equity ratio)
 
 - Two active validators that did not propose blocks, or "non-proposers" (self-pledges account for 20%, pledges by delegators account for 80%), each:
 
-- Receives a reward pool of 30,500/305%*100%=10,000 GARD  
+- Receives a reward pool of 30,500/305%*100%=10,000 GARD
 
 - Non-proposers’ commission: 10,000*80%*8%=640 GARD (each non-proposer’s commission is 8% in this case)
 
 - Non-proposers’ total rewards: 10,000*20%+640=2640 GARD*
 
-- Total rewards for delegators of the non-proposers: 10,000*80%-640=7,360 GARD (each delegator is rewarded in proportion to their equity ratio) 
+- Total rewards for delegators of the non-proposers: 10,000*80%-640=7,360 GARD (each delegator is rewarded in proportion to their equity ratio)
 
 ### 3.6.6 Fee Allocation
 
@@ -573,23 +573,23 @@ For example, there are 10 active validators with equal equity share. A block wit
 
 The active validators proposing the block, or the "proposer" (self-pledges accounts for 20%, pledges by delegators account for 80%):
 
-- Receives a reward pool of 100*105%=105 GARD (the proposer gets an additional 5%)    
+- Receives a reward pool of 100*105%=105 GARD (the proposer gets an additional 5%)
 
 - The proposer's commission: 105*80%*1%=0.84 GARD (validators can set up their own commission, which is 1% in this case)
 
-- The proposer's total rewards: 105*20%+0.84=21.84 GARD   
+- The proposer's total rewards: 105*20%+0.84=21.84 GARD
 
-- Total rewards for the proposer's delegators: 105*80%-0.84=83.16 GARD (each delegator is rewarded in proportion to their share of equity rights) 
+- Total rewards for the proposer's delegators: 105*80%-0.84=83.16 GARD (each delegator is rewarded in proportion to their share of equity rights)
 
-- The nine active non-proposing validators, or "non-proposers" (self-pledges account for 20%, pledges by principals account for 80%), each: 
+- The nine active non-proposing validators, or "non-proposers" (self-pledges account for 20%, pledges by principals account for 80%), each:
 
-- Receives a reward pool of 100*100%=100 GARD 
+- Receives a reward pool of 100*100%=100 GARD
 
 - Non-proposers’ commission: 100*80%*1%=0.8 GARD (each of the nine non-proposers charge 1% commission in this case)
 
 - Non-proposers’ total rewards: 100*20%+0.8=20.8 GARD
 
-- Non-proposers’ principals’ total rewards: 100*80%-0.8=79.2 GARD (each principal is rewarded in proportion to their share of equity rights) 
+- Non-proposers’ principals’ total rewards: 100*80%-0.8=79.2 GARD (each principal is rewarded in proportion to their share of equity rights)
 
 
 ### 3.6.7 Hashgard Improvement Proposals (HIP)
@@ -608,7 +608,7 @@ After the new version of Hashgard is activated, if the HIP has no problems and t
 
 If the new version of Hashgard has problems or the network behaves abnormally after activation, the entire vote rolls back. In the event of serious problems, the Foundation initiates an emergency rollback, so that Hashgard quickly reverts to the previous stable version. The HIP proposal then enters the Replaced phase and shifts to the Accepted phase. After the repair, the HIP proposal enters the test network to be re-verified.
 
-### 3.6.8 Governance Committee 
+### 3.6.8 Governance Committee
 
 The decentralized blockchain operation mechanism gives the Foundation a unique governance structure.
 
@@ -628,7 +628,7 @@ Our expected development roadmap is as follows. This roadmap is only for general
 
 
 
-![ecosystem_en](pics/ecosystem_en.png)  
+![ecosystem_en](pics/ecosystem_en.png)
 
 ## 3.9 Early Team
 
@@ -640,7 +640,7 @@ Yang Yanqing
 
 Co-founder, CTO. Former ZTE corporate level agile coach. Frank graduated from Xidian University in Cyber Security and Cryptography, and has 16 years of experience in software development, 6 years of experience in project management and process improvement, directed multiple teams from traditional R&D to agile mode transformation.
 
- 
+
 
 Huang Qiaomeng
 
@@ -660,7 +660,7 @@ Sunny Lu
 
 Co-founder and CEO of VeChain. He graduated from Shanghai Jiao Tong University with a major in Electronics and Communication Engineering. He has been served as IT Executive in Fortune 500 companies over 13 years, former CIO of LV China. he has extensive experience in information systems and technology strategy and management, enterprise digital revolution and digital innovation, and a solid technical background in the field of computers, networks, and communications. Mr. Lu is dedicated to transform blockchain technology into viable applications and demonstrating the advantages of blockchain to the world to promote the development of blockchain technology. The VeChain project was launched in 2015 and is dedicated to blockchain technology promotion and commercial launch.
 
-David Lee 
+David Lee
 
 Prof. Lee is a professor at Singapore University of Social Sciences and is the deputy chairman of the Singapore Society of Economics. He is the founder of several other institutions, including the American College of the Left Bank, the Liberal Institute of Finance, and Ferrell Financial Group in Singapore. Prof. David Lee served as a managing director of several listed companies, and was also the chairman of the board of directors or a non-executive director of several listed companies. The book "Digital Currency" compiled by Prof. David Lee was published by Elsevier and received the American Library Association's Outstanding Reference Book Award..
 
@@ -726,7 +726,7 @@ Loopring
 
 Loopring is a next-generation decentralized transaction matching protocol with not only a set of open smart contracts to execute transactions and matching operations, but also a group of off-chain participants to match and broadcast orders. Loopring protocol uses decentralization technology to provide a zero-risk token exchange model, allowing multiple exchanges to compete for the same order for off-chain matching and on-chain settlement.
 
-​    
+​
 
 # Chapter IV – Legal Affairs and Risk Statement
 
@@ -742,9 +742,9 @@ Singapore Hashgard Foundation Ltd. hereby expressly disclaims and refuses to acc
 
 3.   Where GARD token’s sales plan is abandoned for any reason
 
-4.    Where there are failures to development or abandonment of Hashgard, and consequent inability to deliver or use GARD token; 
+4.    Where there are failures to development or abandonment of Hashgard, and consequent inability to deliver or use GARD token;
 
-5.  Where the development of Hashgard is postponed or delayed, as a result of which the scheduled agenda that has been disclosed fails to progress as scheduled; 
+5.  Where the development of Hashgard is postponed or delayed, as a result of which the scheduled agenda that has been disclosed fails to progress as scheduled;
 
 6.    Where there are errors, flaws, defects or other problems with Hashgard and its token source code;
 
@@ -770,7 +770,7 @@ Singapore Hashgard Foundation Ltd. hereby expressly disclaims and refuses to acc
 
 17.  Any risk factors disclosed in this White Paper and any damages, losses, claims, liabilities, penalties, costs, or adverse effects caused or accompanied by such risk factors.
 
-In addition, there are risks not mentioned or anticipated by Singapore Hashgard Foundation Ltd. and the team. Within the maximum scope permitted by applicable laws, for the damage and risks caused by participation, including but not limited to direct or indirect personal damage, loss of business profits, loss of business information, and other economic losses, the Hashgard Foundation and team will not bear any liability. The participants shall fully understand the background of the team before making a decision, know the integrated framework and thinking of the project and participate rationally. 
+In addition, there are risks not mentioned or anticipated by Singapore Hashgard Foundation Ltd. and the team. Within the maximum scope permitted by applicable laws, for the damage and risks caused by participation, including but not limited to direct or indirect personal damage, loss of business profits, loss of business information, and other economic losses, the Hashgard Foundation and team will not bear any liability. The participants shall fully understand the background of the team before making a decision, know the integrated framework and thinking of the project and participate rationally.
 
 
 
@@ -778,10 +778,8 @@ In addition, there are risks not mentioned or anticipated by Singapore Hashgard 
 
 
 
- 
+
 
 ------
 
 [*[1\]*](#_ftnref1) *Interchain Foundation. (2017, November 17). Consensus Compare: Casper vs. Tendermint. Retrieved May 15, 2019, from https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae*
-
- 
