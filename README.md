@@ -15,4 +15,4 @@ In 2018, Hashgard Foundation established the open source public blockchain proje
 - [白皮书_中文版](whitepaper_CN.md)
 - [Whitepaper_EN](whitepaper.md)
 - [백서 _ 한국](whitepaper_KR.md)
-- [Белая бумага_RU ](Whitepaper_RU.md)
+- [Белая бумага_RU ](whitepaper_RU.md)
