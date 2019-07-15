@@ -550,10 +550,10 @@ Singapore Hashgard Foundation Ltd. dengan ini secara tegas menyangkal dan menola
 10.	Jika informasi yang berkaitan dengan pengembangan Hashgard gagal diungkapkan secara tepat waktu dan lengkap;
 11. Bila ada peserta yang membocorkan, kehilangan atau merusak kunci pribadi dompet token GARD
 12. Kesalahan, pelanggaran, pelanggaran, keruntuhan dan kehancuran server, penghentian atau penangguhan layanan, penipuan, penyalahgunaan, kesalahan, kelalaian, kebangkrutan, likuidasi, pembubaran, atau penutupan bisnis platform distribusi pihak ketiga untuk token GARD;
-13. 	Ada perbedaan, konflik, atau kontradiksi antara konten yang disepakati oleh siapa pun dan platform pihak ketiga dan yang ada dalam buku putih ini;
-14. 	Perdagangan siapa pun atau spekulasi token GARD;
-15. 	Di mana token GARD terdaftar, ditangguhkan, atau dihapuskan pada platform perdagangan apa pun;
-16. 	Apabila token GARD diklasifikasikan sebagai atau dianggap sebagai mata uang, sekuritas, surat berharga, instrumen yang dapat dinegosiasikan, investasi, atau barang-barang lainnya karena dilarang, diatur, atau dibatasi oleh pemerintah, lembaga kuasi-pemerintah, otoritas atau badan publik;
-17. 	Segala faktor risiko yang diungkapkan dalam Buku Putih ini dan segala kerusakan, kerugian, klaim, kewajiban, hukuman, biaya, atau efek buruk yang disebabkan atau disertai oleh faktor-faktor risiko tersebut.
+13. Ada perbedaan, konflik, atau kontradiksi antara konten yang disepakati oleh siapa pun dan platform pihak ketiga dan yang ada dalam buku putih ini;
+14. Perdagangan siapa pun atau spekulasi token GARD;
+15. Di mana token GARD terdaftar, ditangguhkan, atau dihapuskan pada platform perdagangan apa pun;
+16. Apabila token GARD diklasifikasikan sebagai atau dianggap sebagai mata uang, sekuritas, surat berharga, instrumen yang dapat dinegosiasikan, investasi, atau barang-barang lainnya karena dilarang, diatur, atau dibatasi oleh pemerintah, lembaga kuasi-pemerintah, otoritas atau badan publik;
+17. Segala faktor risiko yang diungkapkan dalam Buku Putih ini dan segala kerusakan, kerugian, klaim, kewajiban, hukuman, biaya, atau efek buruk yang disebabkan atau disertai oleh faktor-faktor risiko tersebut.
 
 Selain itu, ada risiko yang tidak disebutkan atau diantisipasi oleh Singapore Hashgard Foundation Ltd. dan tim. Dalam ruang lingkup maksimal yang diizinkan oleh undang-undang yang berlaku, untuk kerusakan dan risiko yang disebabkan oleh partisipasi, termasuk tetapi tidak terbatas pada kerusakan pribadi langsung atau tidak langsung, kehilangan keuntungan bisnis, kehilangan informasi bisnis, dan kerugian ekonomi lainnya, Yayasan dan tim Hashgard tidak akan bertanggung jawab. Para peserta harus sepenuhnya memahami latar belakang tim sebelum membuat keputusan, mengetahui kerangka kerja terpadu dan pemikiran proyek dan berpartisipasi secara rasional.
