@@ -23,4 +23,4 @@ Hashgard Foundation Ltd adalah sebuah organisasi nirlaba yang telah terdaftar di
 - [WhitePaper_EN](whitepaper.md)
 - [백서 _ 한국](whitepaper_KR.md)
 - [Белая бумага_RU ](whitepaper_RU.md)
-- [WhitePaper_Indonesia](whitepaper_ID.md)
+- [WhitePaper_ID](whitepaper_ID.md)
