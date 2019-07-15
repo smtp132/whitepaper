@@ -16,7 +16,11 @@ Hashgard Foundation Ltd. является зарегистрированной �
 
 В 2018 году Hashgard Foundation учредил проект Hashgard публичного блокчейна с открытым исходным кодом, который стал базовой платформой для будущих цифровых финансовых инноваций и организационного взаимодействия, позволяющая пользователям проводить исследования и разработки приложений на основе этой платформы, а также нацеленная на содействие развития всей экосистемы публичных блокчейнов.
 
+Hashgard Foundation Ltd adalah sebuah organisasi nirlaba yang telah terdaftar di Singapura yang didedikasikan untuk mempromosikan pengembangan teknologi blockchain ke seluruh dunia. Pada tahun 2018, Hashgard Foundation mendirikan proyek blockchain publik open source Hashgard, sebagai platform dasar untuk inovasi keuangan digital masa depan dan kolaborasi berbagai organisasi, mendukung pengguna untuk melakukan penelitian dan pengembangan aplikasi berdasarkan pada platform ini, dan mempromosikan pengembangan ekologi blockchain secara publik
+
+
 - [白皮书_中文版](whitepaper_CN.md)
-- [Whitepaper_EN](whitepaper.md)
+- [WhitePaper_EN](whitepaper.md)
 - [백서 _ 한국](whitepaper_KR.md)
 - [Белая бумага_RU ](whitepaper_RU.md)
+- [WhitePaper_Indonesia](whitepaper_ID.md)
